@@ -1,4 +1,7 @@
-<img align="center" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" /> # OAuth2-Python
+<img align="center" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" /> 
+<img align="center" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
+
+# OAuth2-Python
 #### Discord Inplementation for OAuth2 login systems.
 
 This is a simple Python 'app' made to inplement in your programs that require (shitty) Discord ID verification.
