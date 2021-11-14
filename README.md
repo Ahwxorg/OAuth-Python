@@ -41,6 +41,6 @@ Please make sure to update tests as appropriate.
 [MIT](https://opensource.org/licenses/MIT)
 
 ## Contact
-You can come in contact by [joining my Discord server](https://links.jaapvd.nl/discord).
-You can also come in contact by [messaging me on Telegram](https://t.me/Prifixy).
-You can also come in contact by [messaging me on Discord](https://discord.com/users/374928312692113411).
+- You can come in contact by [joining my Discord server](https://links.jaapvd.nl/discord).
+- You can also come in contact by [messaging me on Telegram](https://t.me/Prifixy).
+- You can also come in contact by [messaging me on Discord](https://discord.com/users/374928312692113411).
