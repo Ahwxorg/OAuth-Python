@@ -28,8 +28,19 @@ You need to edit both the `app.py` and `oauth.py` files. Add your Discord OAuth 
 python3 ~/OAuth2/app.py
 ```
 
-## Contributing
-You can make pull requests, and I will review them.
-
 ## Issues
 Please make a pull request if you know a fix, and otherwise make a issue, at [the issues tab](https://github.com/Prifixy/OAuth2-Python/issues)
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://opensource.org/licenses/MIT)
+
+## Contact
+You can come in contact by [joining my Discord server](https://links.jaapvd.nl/discord).
+You can also come in contact by [messaging me on Telegram](https://t.me/Prifixy).
+You can also come in contact by [messaging me on Discord](https://discord.com/users/374928312692113411).
